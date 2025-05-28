@@ -1,7 +1,10 @@
 # Real-Estate-Houses
-analyses the real estate sector in the U.S., combining construction activity, housing prices, and economic indicators.
+ I analyzed the U.S. real estate market, bringing together insights from construction activity, housing prices, and macroeconomic indicators.
 
-🧩 Project Highlights:]
+The dataset includes time-series data from 2000 to 2023, covering key metrics like building permits, home price index, GDP, mortgage rates, unemployment, and more—allowing a deep dive into market behavior and economic relationships.
+
+
+🧩 Project Highlights:
 
 Tracking the number of housing units built and permitted over time.
 
@@ -41,7 +44,7 @@ Exploring unemployment, urban income, and population trends.
 
 ✔ Data cleansing & transformation.
 
-✔ CSV Dataset: real estate housing in the U.S and macroeconomic indicators from 2000–2023.
+
 
 Page 1: Overview - Real Estate Houses
 
@@ -113,6 +116,18 @@ Visuals & Insights:
 📊 Home Price Index (HPI):Consistent upward trend post-2015. Influenced by supply-demand dynamics, income, and broader economic stability.
 
 📉There is an inverse relationship between mortgage/interest rates and home prices—lower rates often stimulate higher prices.
+
+
+🧠 Use Cases:
+Track home price trends over time
+
+Analyze the impact of economic factors (income, unemployment, interest rates) on the real estate market
+
+Evaluate construction activity and investment
+
+Forecast market behavior and identify key patterns
+
+
 
 
 
