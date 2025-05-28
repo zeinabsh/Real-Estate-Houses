@@ -119,6 +119,7 @@ Visuals & Insights:
 
 
 📌 Key Recommendations:
+
 🏗️ Streamline construction processes to meet housing demand efficiently.
 
 📉 Monitor interest and mortgage rates to support housing affordability.
