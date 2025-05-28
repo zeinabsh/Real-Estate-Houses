@@ -118,15 +118,16 @@ Visuals & Insights:
 📉There is an inverse relationship between mortgage/interest rates and home prices—lower rates often stimulate higher prices.
 
 
-🧠 Use Cases:
-Track home price trends over time
+📌 Key Recommendations:
+🏗️ Streamline construction processes to meet housing demand efficiently.
 
-Analyze the impact of economic factors (income, unemployment, interest rates) on the real estate market
+📉 Monitor interest and mortgage rates to support housing affordability.
 
-Evaluate construction activity and investment
+📈 Focus investments in areas with strong income growth and low unemployment.
 
-Forecast market behavior and identify key patterns
+💳 Promote financial readiness to maintain low delinquency rates.
 
+🔮 Use forecasting tools for better planning and decision-making.
 
 
 
